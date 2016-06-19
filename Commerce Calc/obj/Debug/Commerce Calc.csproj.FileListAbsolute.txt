@@ -1,0 +1,8 @@
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\bin\Debug\Commerce Calc.exe.config
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\bin\Debug\Commerce Calc.exe
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\bin\Debug\Commerce Calc.pdb
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Debug\Commerce_Calc.Form1.resources
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Debug\Commerce_Calc.Properties.Resources.resources
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Debug\Commerce Calc.csproj.GenerateResource.Cache
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Debug\Commerce Calc.exe
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Debug\Commerce Calc.pdb

@@ -1,0 +1,18 @@
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\bin\Release\Commerce Calc.exe.config
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\bin\Release\Commerce Calc.exe
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\bin\Release\Commerce Calc.pdb
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Release\Commerce_Calc.Form1.resources
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Release\Commerce_Calc.Properties.Resources.resources
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Release\Commerce Calc.csproj.GenerateResource.Cache
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Release\Commerce Calc.exe
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Release\Commerce Calc.pdb
+C:\Users\Celtech\Desktop\Commerce Calc\Commerce Calc\obj\Release\Commerce Calc.csprojResolveAssemblyReference.cache
+D:\Projects\Commerce Calc\Commerce Calc\obj\Release\Commerce Calc.csprojResolveAssemblyReference.cache
+D:\Projects\Commerce Calc\Commerce Calc\obj\Release\Commerce_Calc.Form1.resources
+D:\Projects\Commerce Calc\Commerce Calc\obj\Release\Commerce_Calc.Properties.Resources.resources
+D:\Projects\Commerce Calc\Commerce Calc\obj\Release\Commerce Calc.csproj.GenerateResource.Cache
+D:\Projects\Commerce Calc\Commerce Calc\bin\Release\Commerce Mastery Helper.exe.config
+D:\Projects\Commerce Calc\Commerce Calc\bin\Release\Commerce Mastery Helper.exe
+D:\Projects\Commerce Calc\Commerce Calc\bin\Release\Commerce Mastery Helper.pdb
+D:\Projects\Commerce Calc\Commerce Calc\obj\Release\Commerce Mastery Helper.exe
+D:\Projects\Commerce Calc\Commerce Calc\obj\Release\Commerce Mastery Helper.pdb
